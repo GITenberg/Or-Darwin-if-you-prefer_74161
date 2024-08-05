@@ -1,0 +1,30 @@
+_repo: Or-Darwin-if-you-prefer_74161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hunter, Mel
+    alias: Hunter
+    birthdate: 1927
+    deathdate: 2004
+    gutenberg_agent_id: '34425'
+    url: http://www.gutenberg.org/2009/agents/34425
+    wikipedia: http://en.wikipedia.org/wiki/Mel_Hunter
+description: ''
+gutenberg_issued: '2024-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74161'
+language: en
+pgterms:marc905: 20240310125007hunter
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Or Darwin, if you prefer
+url: http://www.gutenberg.org/ebooks/74161
